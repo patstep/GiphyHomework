@@ -1,0 +1,55 @@
+
+.container {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+#buttonBar {
+	margin: 30px 10px 20px 10px;
+
+}
+
+.inputButton {
+	background-color: #9BC972FF;
+	font-family: "courier";
+	font-size: 16px;
+	text-align: center;
+	padding: 10px 20px;
+	margin: 8px;
+	border-radius: 5px;
+	transition: .5s;
+	box-shadow: 5px 5px 3px #888
+}
+
+.inputButton:hover {
+	background-color: #578929FF;
+	color:white;
+	cursor: pointer;
+}
+
+
+.gifFinder {
+	float: right;
+}
+
+.gifFinder p {
+	font-family: "courier";
+	font-size: 16px;
+	
+}
+
+#displaySection {
+	width: 60%;
+	float: left;
+}
+
+.gifsDisplay {
+	float: left;
+	margin: 5px;
+}
+
+.gifHolder p {
+	font-family: "courier";
+	margin-bottom: 10px;
+}
+
